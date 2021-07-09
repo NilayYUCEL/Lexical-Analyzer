@@ -22,7 +22,9 @@ Developed with C in the 2020-2021 period.
   
   
 3- Operators
+
   Valid operators of the language are +,-,*,/,++,--,:=
+  
   Example Token: Operator(++)
   
 4- Brackets
