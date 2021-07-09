@@ -2,9 +2,13 @@
 Developed with C in the 2020-2021 period.
 
 1- Identifiers:
+
   Maximum identifier size is 20 characters. If you use an identifier larger than that, the lexical analyzer issues an error message.
+  
   Ceng++ language is not case sensitive
+  
   Identifiers start with an alphabetic character (a letter) and are composed of one or more letters,digits or_ (underscore)
+  
   Example Token: Identifier(my_var_1)
   
 2- Integer constants
